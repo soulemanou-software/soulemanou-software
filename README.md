@@ -59,7 +59,7 @@ style=" fill:#000000;"><path fill="#9B1010" d="M42 14L40 40 14 42z"></path><path
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=soulemanou-software&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/soulemanou-software"><img alt="soulemanou kunchiefuh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=soulemanou-software&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -77,4 +77,4 @@ style=" fill:#000000;"><path fill="#9B1010" d="M42 14L40 40 14 42z"></path><path
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=soulemanou-software">
 </a>
-<a href="https://github.com/soulemanou-software?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/soulemanou-software?tab=followers"><img src="https://img.shields.io/github/followers/soulemanou-software?label=Followers&style=social" alt="GitHub Badge"></a>

@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Portfolio/Capstone Project](https://soulemanou-software.github.io/)**
+- 🔭 I’m currently working on **[My Portfolio/Capstone Project](https://soulemanou-software.github.io/capstone--1/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 

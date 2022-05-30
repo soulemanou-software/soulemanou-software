@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://wealthofgeeks.com/wp-content/uploads/2022/03/Parttime.jpg" height="175px"/></a>
+<a href="#"  align="center"><img width="100%" height="50%" align-items="center" src="https://wealthofgeeks.com/wp-content/uploads/2022/03/Parttime.jpg"/></a>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soulemanou Kunchiefuh Babanou</h1>
@@ -35,8 +35,7 @@ style=" fill:#000000;"><path fill="#9B1010" d="M42 14L40 40 14 42z"></path><path
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a> 
   
 </p>
 
@@ -45,7 +44,7 @@ style=" fill:#000000;"><path fill="#9B1010" d="M42 14L40 40 14 42z"></path><path
 
 <p align="center">
     <a href="https://github.com/soulemanou-software">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="soulemanou-software streak" src="https://github-readme-streak-stats.herokuapp.com/?user=soulemanou-software&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="soulemanou-software" src="https://github-readme-streak-stats.herokuapp.com/?user=soulemanou-software&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 

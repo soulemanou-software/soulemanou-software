@@ -42,8 +42,8 @@ style=" fill:#000000;"><path fill="#9B1010" d="M42 14L40 40 14 42z"></path><path
 <br/>
 
 <p>
-     <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulemanou-software&layout=compact&hide_border=true&theme=vision-friendly-dark">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=soulemanou-software&show_icons=true&hide_border=true&theme=vision-friendly-dark">
+     <img align="right" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulemanou-software&layout=compact&hide_border=true&theme=vision-friendly-dark">
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=soulemanou-software&show_icons=true&hide_border=true&theme=vision-friendly-dark">
 </p>
  <br/>
   <br/>

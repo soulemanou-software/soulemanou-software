@@ -1,5 +1,4 @@
-<a href="#"  align="center"><img width="100%" height="50%" align-items="center" src="https://wealthofgeeks.com/wp-content/uploads/2022/03/Parttime.jpg"/></a>
-
+![Parttime (1)](https://user-images.githubusercontent.com/57832090/170981500-949b132e-a9c0-46aa-8dcd-c3d387f6aa9d.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soulemanou Kunchiefuh Babanou</h1>
 <h3 align="center">I'm a passionate Software Engineer/Full Stack Developer from Cameroon.</h3>
@@ -7,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Portfolio](https://soulemanou-software.github.io/)**
+- 🔭 I’m currently working on **[My Portfolio/Capstone Project](https://soulemanou-software.github.io/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -42,14 +41,21 @@ style=" fill:#000000;"><path fill="#9B1010" d="M42 14L40 40 14 42z"></path><path
 <!--[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)-->
 <br/>
 
-<p align="center">
-    <a href="https://github.com/soulemanou-software">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="soulemanou-software" src="https://github-readme-streak-stats.herokuapp.com/?user=soulemanou-software&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<p>
+     <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulemanou-software&layout=compact&hide_border=true&theme=vision-friendly-dark">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=soulemanou-software&show_icons=true&hide_border=true&theme=vision-friendly-dark">
 </p>
-
-## 📊 My Github Stats
-
+ <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+<h2> ## 📊 My Github Stats </h2>
   <br/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

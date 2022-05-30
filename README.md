@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <a href="#"><img width="100%" height="auto" src="https://wealthofgeeks.com/wp-content/uploads/2022/03/Parttime.jpg" height="175px"/></a>
 
 
@@ -8,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Portfolio]((https://soulemanou-software.github.io/))**
+- 🔭 I’m currently working on **[My Portfolio](https://soulemanou-software.github.io/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -16,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/soulemanou-software.io)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **mroboot9@gmail.com**
 
 - ⚡ Fun fact **I play games,and go to the GYM very often.**
 
@@ -45,7 +44,7 @@ style=" fill:#000000;"><path fill="#9B1010" d="M42 14L40 40 14 42z"></path><path
 <br/>
 
 <p align="center">
-    <a href="https://github.com/soulemanou-software/github-readme-streak-stats">
+    <a href="https://github.com/soulemanou-software">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="soulemanou-software streak" src="https://github-readme-streak-stats.herokuapp.com/?user=soulemanou-software&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -75,7 +74,7 @@ style=" fill:#000000;"><path fill="#9B1010" d="M42 14L40 40 14 42z"></path><path
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/username=soulemanou-software">
     <img src="https://komarev.com/ghpvc/?username=soulemanou-software">
 </a>
 <a href="https://github.com/soulemanou-software?tab=followers"><img src="https://img.shields.io/github/followers/soulemanou-software?label=Followers&style=social" alt="GitHub Badge"></a>

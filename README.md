@@ -1,8 +1,8 @@
-<p align="center">![bnr-1](https://user-images.githubusercontent.com/57832090/173539723-a66e757d-0e59-4288-850b-db646e6f043a.png)</p>
-
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">,I'm Soulemanou Kunchiefuh Babanou</h1>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/57832090/173539723-a66e757d-0e59-4288-850b-db646e6f043a.png">
+ </p>
+<h1 align="center">Hi 👋 ,I'm Soulemanou Kunchiefuh Babanou</h1>
 <h3 align="center">I'm a passionate Software Engineer/Full Stack Developer from Cameroon.</h3>
-
 
 ## 🙋‍♂️ About Me
 

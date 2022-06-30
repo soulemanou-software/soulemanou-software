@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57832090/173539723-a66e757d-0e59-4288-850b-db646e6f043a.png">
+<img width="35%"  src="https://user-images.githubusercontent.com/57832090/173539723-a66e757d-0e59-4288-850b-db646e6f043a.png">
  </p>
 <h1 align="center">Hi 👋 ,I'm Soulemanou Kunchiefuh Babanou</h1>
 <h3 align="center">I'm a passionate Software Engineer/Full Stack Developer from Cameroon.</h3>
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I play games,and go to the GYM very often.**
 
-## 🚀 Languages and Tools:
+## 🚀Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -41,36 +41,17 @@ style=" fill:#000000;"><path fill="#9B1010" d="M42 14L40 40 14 42z"></path><path
 <!--[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)-->
 <br/>
 
+<h2> 📊 My Github Stats </h2>
 <p>
      <img align="right" width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulemanou-software&layout=compact&hide_border=true&theme=vision-friendly-dark">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=soulemanou-software&show_icons=true&hide_border=true&theme=vision-friendly-dark">
+    <img align="left" width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=soulemanou-software&show_icons=true&hide_border=true&theme=vision-friendly-dark">
 </p>
- <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  
-  <br/>
-<h2> ## 📊 My Github Stats </h2>
-  <br/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
 <a href="https://github.com/soulemanou-software"><img alt="soulemanou kunchiefuh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=soulemanou-software&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
-
-## Connect with me:
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/>
+  ##
+Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/soulemanou-kunchiefuh-babanou"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>

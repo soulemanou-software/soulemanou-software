@@ -1,17 +1,15 @@
+<h1 align="center"> Hi 👋 ,I'm Soulemanou Kunchiefuh Babanou</h1>
+<h2 align="center">I'm a passionate Software Engineer & Full Stack Developer from Cameroon.</h2>
 <p align="center">
-<img width="35%"  src="https://user-images.githubusercontent.com/57832090/173539723-a66e757d-0e59-4288-850b-db646e6f043a.png">
+<img width="20%"  src="https://user-images.githubusercontent.com/57832090/173539723-a66e757d-0e59-4288-850b-db646e6f043a.png">
  </p>
  
-<h1 align="center">Hi 👋 ,I'm Soulemanou Kunchiefuh Babanou</h1>
-<h3 align="center">I'm a passionate Software Engineer/Full Stack Developer from Cameroon.</h3>
-
 ## 🙋‍♂️ About Me
+- 👯 I’m **Open to new opportunities**
 
 - 🔭 I’m currently working on **[My Portfolio/Capstone Project](https://soulemanou-software.github.io/capstone--1/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://soulemanou-software.github.io)**
 

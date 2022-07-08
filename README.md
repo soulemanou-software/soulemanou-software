@@ -1,11 +1,12 @@
 <h1 align="center"> Hi 👋 ,I'm Soulemanou Kunchiefuh Babanou</h1>
-<h2 align="center">I'm a passionate Software Engineer & Full Stack Developer from Cameroon.</h2>
 <p align="center">
-<img width="20%"  src="https://user-images.githubusercontent.com/57832090/173539723-a66e757d-0e59-4288-850b-db646e6f043a.png">
+<img width="95%"  src="https://securityboulevard.com/wp-content/uploads/2018/10/Higher-Ed-Cybersecurity-770x300.jpg">
  </p>
  
 ## 🙋‍♂️ About Me
-- 👯 I’m **Open to new opportunities**
+<h2 align="center"> I'm a passionate Software Engineer & Full Stack Developer from Cameroon.</h2>
+
+- 👯 I’m **Open to new jobs opportunities**
 
 - 🔭 I’m currently working on **[My Portfolio/Capstone Project](https://soulemanou-software.github.io/capstone--1/)**
 

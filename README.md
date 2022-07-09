@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mroboot9@gmail.com**
 
-- ⚡ Fun fact **I play games,and go to the GYM very often.**
+- ⚡ Fun fact **I play games, and go to the GYM very often.**
 
 ## 🚀Languages and Tools:
 

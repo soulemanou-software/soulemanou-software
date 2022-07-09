@@ -71,7 +71,8 @@ Connect with me:
 <a href = "https://www.linkedin.com/in/soulemanou-kunchiefuh-babanou"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/fastdevz1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/fastdevz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12958088/soulemanou-kunchiefuh-babanou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12958088/soulemanou-kunchiefuh-babanou" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12958088/soulemanou-kunchiefuh-babanou" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12958088/soulemanou-kunchiefuh-babanou" height="30" width="40" /></a>
 </p>
 
 ## ❤ Views and Followers

@@ -57,8 +57,8 @@
 
 <h2> 📊 My Github Stats </h2>
 <p>
-     <img align="right" width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulemanou-software&layout=compact&hide_border=true&theme=vision-friendly-dark">
-    <img align="left" width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=soulemanou-software&show_icons=true&hide_border=true&theme=vision-friendly-dark">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulemanou-software&layout=compact&hide_border=true&theme=vision-friendly-dark"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=soulemanou-software&show_icons=true&hide_border=true&theme=vision-friendly-dark">
 </p>
 <a href="https://github.com/soulemanou-software"><img alt="soulemanou kunchiefuh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=soulemanou-software&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 

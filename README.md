@@ -68,7 +68,7 @@
 Connect with me:
 <p align="left">
 
-<a href = "https://linkedin.com/in/soulemanou-kunchiefuh-babanou-454099196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://linkedin.com/in/soulemanou-kunchiefuh-babanou"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/fastdevz1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/fastdevz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>

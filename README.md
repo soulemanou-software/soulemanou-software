@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 <h2 align="center"> I'm a passionate Software Engineer & Full Stack Developer from Cameroon.</h2>
 
-- 🔭 I’m currently working on **[My Portfolio/Capstone Project](https://soulemanou-software.github.io/capstone--1/)**
+- 🔭 I’m currently working on **[My Portfolio/Capstone Project](https://fastdevz.me/Capstone--pro--1/)**
 
 - 👯 I’m **Open to new job opportunities**
 

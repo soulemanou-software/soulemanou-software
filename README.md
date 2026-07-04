@@ -6,7 +6,7 @@
 
 <p>
 
-<a href="https://soulemanou-software.github.io">
+<a href="https://www.ceo.fastdevz.org">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge"/>
 </a>
 
